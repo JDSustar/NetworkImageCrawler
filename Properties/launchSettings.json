@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageSizeCrawler": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\jason\\Pictures"
+    }
+  }
+}
